@@ -20,7 +20,7 @@ module.exports = {
         /*
         - basePath defaults to `/`
         */
-        basePath: `/blog`,
+        // basePath: `/blog`,
         prismPreset: `dracula`,
         // preset: `my-preset-name-here`,
       },
